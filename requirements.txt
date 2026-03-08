@@ -1,0 +1,3 @@
+paho-mqtt
+
+pip install -r requirements.txt
